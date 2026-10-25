@@ -1,0 +1,17 @@
+# Compiled binaries and object files
+*.exe
+*.out
+*.o
+*.obj
+
+# Flex & Bison intermediate generated files
+lex.yy.c
+*.tab.c
+*.tab.h
+*.output
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
